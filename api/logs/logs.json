@@ -1,0 +1,22 @@
+[
+    {
+        "logId": 1,
+        "logName": "Leaf Rake",
+        "releaseDate": "March 19, 2016",
+        "eventType": "Login",
+        "description": "Leaf rake with 48-inch wooden handle.",
+        "starRating": 3.2,
+        "user": "Pepito",
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    },
+    {
+        "logId": 2,
+        "logName": "Leaf Rake",
+        "releaseDate": "March 19, 2016",
+        "eventType": "Sign out",
+        "description": "Leaf rake with 48-inch wooden handle.",
+        "starRating": 5.0,
+        "user": "Fulanito",
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    }
+]
